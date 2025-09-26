@@ -6,3 +6,10 @@ This repository contains SQL queries designed to help data analysts and BI profe
 ## 🌟 About Me
 
 Hi there! I'm **Mahmoud Salah Naga**. I’m a passionate Data Engineer,eager to learn, build impactful projects, and continuously grow my skills.
+
+
+
+## Acknowledgments
+
+This project was built by following the guidance of [Baraa Khatib Salkini] on YouTube.  
+A big thanks for the clear explanations and valuable content that made this learning project possible. 🙏
